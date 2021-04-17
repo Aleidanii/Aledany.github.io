@@ -85,3 +85,15 @@ Author: lordscotland
 Section: Utilities
 Maintainer: NeutronFile
 Depends: firmware (>= 4.0), system-cmds
+
+Package: com.aledanyRadarSniper
+Name: Radar Pubg
+Version: 1.0
+Filename: debfiles//RadarSniper.deb
+Size:  345
+Section: Tweaks
+Maintainer: @DNS_Sys
+Depends: mobilesubstrate
+SileoDepiction: https://Aledany.github.io/sileo.php?pid=2758
+Architecture: iphoneos-arm
+Author: Cracker by Sniper @DNS_Sys
