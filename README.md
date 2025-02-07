@@ -1,4 +1,4 @@
-# Aledany.github.io
-@Aledany1 on telegram
-@Aledany1 on instagram
-@Aledany111 on twitter
+# Aleidani.github.io
+@Aleidanii on telegram
+@Hussein_Aleidani on instagram
+@Aleidani__ on twitter
